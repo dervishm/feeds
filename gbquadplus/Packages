@@ -133,9 +133,9 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: effeace9e2096cbc6c9560b224a7a161
-SHA256sum: 9f9fbb023e20e226ae7759f90d73fa6941afe33032ca88efab2da9fc3d662ab8
-Size: 68708
+MD5Sum: 081d9356696c3a09c04d451d39949cc4
+SHA256sum: 218cdd6b3d7d3bd4122ef38661464619dfdb058213745745cd4b8e292685b411
+Size: 68722
 Filename: bitratecalc-dbg_git10+740b342-r0_gbquadplus.ipk
 Source: bitratecalc_git.bb
 Description: bitratecalc version gitAUTOINC+740b342ae4-r0 - Debugging files
@@ -150,8 +150,8 @@ Recommends: enigma2-dev, glibc-dev, libgcc-dev, libstdc++-dev, python-dev
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4dfb6ff06b2527163866e0288ac2f543
-SHA256sum: cc30ecfcf1ef465c21f56d11dacd070b4f1236cebe1583402ee60423ded693b9
+MD5Sum: 5bab8e9a6132a68c983ca11aa989866b
+SHA256sum: 4e9d31e94a5859af14fad222cb0418076eed6c473ad93ff8d4d4e0cb122f7179
 Size: 798
 Filename: bitratecalc-dev_git10+740b342-r0_gbquadplus.ipk
 Source: bitratecalc_git.bb
@@ -166,8 +166,8 @@ Depends: libc6 (>= 2.33), libgcc1 (>= 10.2.0), libstdc++6 (>= 10.2.0)
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 674857eaebc51422f4b61767bef980dc
-SHA256sum: adf2c779276e47dc73ffe998471fbee98b4cf6fb43f04657613250e25b4554a6
+MD5Sum: 8f54b49c458eb08f2239b91ba12d774f
+SHA256sum: a9fdca8216603182ce15b7b3441f93c37f4c3c8b68848d75b15c78edac1613ea
 Size: 5838
 Filename: bitratecalc_git10+740b342-r0_gbquadplus.ipk
 Source: bitratecalc_git.bb
@@ -228,8 +228,8 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtirpc-dbg
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a449c450e9581f445d2ebf1245b5abdc
-SHA256sum: 662bf079bac5bc059341c26a81a69386ba274320d14287d56eab2b10dd29386d
+MD5Sum: 8f682d43f1f6a0e080d92b76ac09603f
+SHA256sum: e14b355afe6b8a57c30b54aca79910328bf1fa84a0b7bdd5f977e20cfb30ee3b
 Size: 716
 Filename: enigma2-c-plugins-dbg_git29+45c3a7e-r0_gbquadplus.ipk
 Source: enigma2-c-plugins.bb
@@ -245,8 +245,8 @@ Recommends: enigma2-dev, glibc-dev, gst-plugins-bad-fragmented-dev, hairtunes-de
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d00ab19d18bb547d199a130d5e530611
-SHA256sum: d382460f2d7ed2a687a66c1bac75ae33c8a7df29a8429e2f23c2efa30ebc7288
+MD5Sum: 480353df0203c97c0dc529835ce5ea15
+SHA256sum: 9ab5b0d8d01d108e7fd4ffd326707f821a7d21c52f55d2469f809c9850630f03
 Size: 800
 Filename: enigma2-c-plugins-dev_git29+45c3a7e-r0_gbquadplus.ipk
 Source: enigma2-c-plugins.bb
@@ -260,8 +260,8 @@ Version: git29+45c3a7e-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8e220fff89fc6f5312f08a82dd797348
-SHA256sum: 55a03360142c2be11687907bb7c1f39b6dc3e20ff6311a3f3730e28e8c12f5d5
+MD5Sum: 6206dc8b846d3b0201ac54edb759fd60
+SHA256sum: 0b8917c24961ba0b3ec1c82821dcbb7d7e9eaa1e3afe577c6bb6ebc716e5c908
 Size: 1346
 Filename: enigma2-c-plugins-meta_git29+45c3a7e-r0_gbquadplus.ipk
 Source: enigma2-c-plugins.bb
@@ -275,9 +275,9 @@ Version: git29+45c3a7e-r0
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 49f6086b0ced24bdc798c3a10ba54243
-SHA256sum: df1b2722e26485118d5900640e16a1b1822022b839e7d1cfa2a15b11b35cbfee
-Size: 69224
+MD5Sum: a33aa541723dc797ff37da637336d4ff
+SHA256sum: 6d2511d4ddc24a47e89e3efb64ec60c5c789f39c58f776314780d221bef900ec
+Size: 69206
 Filename: enigma2-c-plugins-src_git29+45c3a7e-r0_gbquadplus.ipk
 Source: enigma2-c-plugins.bb
 Description: C plugins for Open Vision - Source files
@@ -290,9 +290,9 @@ Version: git29+45c3a7e-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 5390f1daf33ebf4dcd11398970e64e92
-SHA256sum: 6e7331b9d20bd65367f99b2b56dd0099b47a61a1e2d4908833676bac0b005320
-Size: 620
+MD5Sum: e6465a767b685967952f162820442885
+SHA256sum: e1568bf4112dcba71818ebd306c3a98c0155ba05a176aea9cc35d4f0a0e9f816
+Size: 618
 Filename: enigma2-c-plugins_git29+45c3a7e-r0_gbquadplus.ipk
 Source: enigma2-c-plugins.bb
 Description: C plugins for Open Vision
@@ -301,15 +301,15 @@ License: GPLv3
 Priority: optional
 
 Package: enigma2-dbg
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Recommends: freetype-dbg, fribidi-dbg, giflib-dbg, glib-2.0-dbg, glibc-dbg, libavahi-client-dbg, libavahi-common-dbg, libcrypto-dbg, libdreamdvd-dbg, libdvbsi++-dbg, libgcc-dbg, libgomp-dbg, libjpeg-turbo-dbg, libpng-dbg, libpython2-dbg, libsigc++-2.0-dbg, libssl-dbg, libstdc++-dbg, libtuxtxt-dbg, libudfread-dbg, libxcrypt-dbg, libxml2-dbg, tuxtxt-enigma2-dbg
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: bdc48aee29c3e95fc37baafe9063c828
-SHA256sum: 44dd094abf237bad13de874edd775fbc7c93590e5c1b3490f1461312e02b70d4
+MD5Sum: 0aa15f1d9c304db4c2faa8566245cdea
+SHA256sum: 693f9157534fa9663067a4fd803fdf935679da5bf3d24ec22bee18139783adb7
 Size: 882
-Filename: enigma2-dbg_develop+git20870+69440df-r0_gbquadplus.ipk
+Filename: enigma2-dbg_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers - Debugging files
 OE: enigma2
@@ -317,16 +317,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-dev
-Version: develop+git20870+69440df-r0
-Depends: enigma2 (= develop+git20870+69440df-r0)
+Version: develop+git20873+d846f1a-r0
+Depends: enigma2 (= develop+git20873+d846f1a-r0)
 Recommends: aio-grab-dev, alsa-conf-dev, avahi-dev, cdrkit-dev, dvd+rw-tools-dev, dvdauthor-dev, enigma2-data-iso-639-3-dev, enigma2-fonts-dev, enigma2-plugin-extensions-pespeedup-dev, enigma2-timezones-dev, ethtool-dev, font-valis-enigma-dev, freetype-dev, fribidi-dev, giflib-dev, glib-2.0-dev, glibc-dev, glibc-gconv-cp1250-dev, glibc-gconv-iso8859-15-dev, hotplug-e2-helper-dev, jpeg-dev, kernel-module-pktcdvd-dev, kernel-module-udf-dev, libavahi-client-dev, libavahi-common-dev, libcrypto-dev, libdreamdvd-dev, libdvbsi++-dev, libgcc-dev, libgomp-dev, libjpeg-turbo-dev, libmad-dev, libpng-dev, libpython2-dev, libsigc++-2.0-dev, libssl-dev, libstdc++-dev, libtuxtxt-dev, libudfread-dev, libxcrypt-dev, libxml2-dev, mjpegtools-dev, ntpdate-dev, ofgwrite-dev, openssl-dev, openvision-branding-dev, openvision-module-dev, openvision-version-info-dev, python-codecs-dev, python-core-dev, python-crypt-dev, python-fcntl-dev, python-image-dev, python-imaging-dev, python-lang-dev, python-mmap-dev, python-netclient-dev, python-netifaces-dev, python-netserver-dev, python-numbers-dev, python-pickle-dev, python-process-dev, python-pyusb-dev, python-re-dev, python-sendfile-dev, python-service-identity-dev, python-shell-dev, python-six-dev, python-threading-dev, python-twisted-core-dev, python-twisted-dev, python-twisted-web-dev, python-wifi-dev, python-xml-dev, python-zlib-dev, python-zopeinterface-dev, replex-dev, tuxtxt-enigma2-dev, virtual/blindscan-dvbc-dev, virtual/enigma2-mediaservice-dev, wireless-tools-dev, wpa-supplicant-dev
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8a71e123c2996d51188c4746eb9e278d
-SHA256sum: 1b0da0dc4cfe7fdbe41b9403107d60f70dfa79f8c298c9af86f8bf01fca10082
-Size: 131478
-Filename: enigma2-dev_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 88a50ec0ccb171bef1f8d34b379479e7
+SHA256sum: 37d2e2409ab292108b4367370b2351ba87d4db9b83100f8fc1ca1a4a2a2d3e38
+Size: 131458
+Filename: enigma2-dev_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers - Development files
 OE: enigma2
@@ -338,9 +338,9 @@ Version: 2020.10.17-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8c427743610983afe9b48d40242cbde1
-SHA256sum: b781b3502b7a02311574231e60fc1665a8bd0cf9da91b33326120d4d1bcebaad
-Size: 806038
+MD5Sum: d80d90bd5462601051299e456339920f
+SHA256sum: 1b1a69e3b36487281542957a0ed69c161bec021824296a52e1d61b20981e8421
+Size: 806178
 Filename: enigma2-fonts_2020.10.17-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers
@@ -349,15 +349,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-ar
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 53f092ea06d6da95ffb618685a18a5b6
-SHA256sum: b431aab703c2cee4f76ba86b4b76efe459ada60de872e776357f77f7434ab88d
-Size: 56348
-Filename: enigma2-locale-ar_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: ba590fd89a3301dcf6328267cea42bdb
+SHA256sum: a1a2819adbe217b3afe472bb745cad0180f24a70e0748425f0b691096a8876b6
+Size: 56376
+Filename: enigma2-locale-ar_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: ar
 OE: enigma2
@@ -365,15 +365,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-bg
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 90fb57bf9bcdb1389c1f2b5dd2509593
-SHA256sum: 700a934fa5d5273694876c2285e220a014575d9d464912ea6db0b790394f2529
-Size: 86788
-Filename: enigma2-locale-bg_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 72d11336cded8506f1923b544b951803
+SHA256sum: cd2e7dd5a8f92ff3f49276fbb8b632a70d332510d338bb029ae537e23b4e4732
+Size: 86758
+Filename: enigma2-locale-bg_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: bg
 OE: enigma2
@@ -381,15 +381,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-ca
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c0ca0a449d383b59126ed9a3c52676fe
-SHA256sum: 718e07cb4b5b1dcdbaf671af6588ab8e70fc5f72c3fd60e856920ef91e201d75
-Size: 82848
-Filename: enigma2-locale-ca_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: a994a92aedf23041814c7f8c16d0c791
+SHA256sum: 14842e37d77c19bf94b295688d7aff89c74181b026e551580d8ee4b4580d7db9
+Size: 82928
+Filename: enigma2-locale-ca_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: ca
 OE: enigma2
@@ -397,15 +397,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-cs
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1ff6e9110e092867ca73271a1bd74a1e
-SHA256sum: 49f3bfe9165fcd537a1464c8743688ae364b7285a66eabc572e8409eb7daf6fc
-Size: 82608
-Filename: enigma2-locale-cs_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: b2d3c5efd0dc431d64a46da938262143
+SHA256sum: c68f71af44ec419470a4987fa1706717fe760e4cea58297422d1d08addaaddcf
+Size: 82584
+Filename: enigma2-locale-cs_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: cs
 OE: enigma2
@@ -413,15 +413,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-da
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 77d054a5d5e552b9357aeed79268b23a
-SHA256sum: 3f8cebc7cc8750107f8d12573aa1d28d4bdd16525e5d08ba7f6b567ac3e3fca7
-Size: 55736
-Filename: enigma2-locale-da_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: c81f5cbe51d217f93a6225f6ab07a396
+SHA256sum: 22483b2f1227d4c635eb02cbce4d720cb21ef1b322d2708e86aca9ae45a0beba
+Size: 55670
+Filename: enigma2-locale-da_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: da
 OE: enigma2
@@ -429,15 +429,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-de
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ef1d5f181a6e6ac9ff23d17bd5ba93b1
-SHA256sum: e3494b6bbba84d606a2da7a426ed1a33b16843c35010f039df297169b638ebf4
-Size: 81584
-Filename: enigma2-locale-de_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 5f924dc0eff2916de972f29f5457750d
+SHA256sum: a73d33dfec016c3f338f14ebb639a8c4b0f6b491ce34160edd7f8ab7c240258c
+Size: 81614
+Filename: enigma2-locale-de_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: de
 OE: enigma2
@@ -445,15 +445,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-el
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 84f76095af110b2c1ff27dba6e4b8d98
-SHA256sum: 87b1d2a18a593985119ffd9df490464690ac5ac8534d9254347a5f536cf669d5
-Size: 88076
-Filename: enigma2-locale-el_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: c6ce3a0aa6ccff22a20fa50562f5f41b
+SHA256sum: b6eda3fd7bca9cc2bb1de619d8a72a310880c5c4978772045738f6fbf23c0f92
+Size: 88080
+Filename: enigma2-locale-el_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: el
 OE: enigma2
@@ -461,15 +461,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-en
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c2141eedbbb31249c54eaf1f531a6d94
-SHA256sum: cd41d3670d88b30960b6a39e699a4be29f1f90a7c686df9c5fd791b66f5cc251
-Size: 27736
-Filename: enigma2-locale-en_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 0c5e7b302e1347f0659c969fbc7f2a37
+SHA256sum: 549fcd64b8bc6c3c4d40d7a1a6f832bdd21f71fde97c645771665889f9734e76
+Size: 27720
+Filename: enigma2-locale-en_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: en
 OE: enigma2
@@ -477,15 +477,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-es
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d1d044518c5816101426bcf5b8654680
-SHA256sum: 7755f72e02e6794245271e1ab269db95fc5972ad04a13fb4ce4fef6f4435ebb4
-Size: 95208
-Filename: enigma2-locale-es_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 3a79bfe6d6c164905ac632eb6befeff4
+SHA256sum: 45c6f712382eecc595fded32169f35dd4ef2c1543bf5482594bceff6d5c50840
+Size: 95216
+Filename: enigma2-locale-es_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: es
 OE: enigma2
@@ -493,15 +493,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-et
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e61c5abd88ac180d8ccf36aa0cdb16d5
-SHA256sum: 9e1dd8c948874c572cbb29ca170f3493935e24bea13dd87e1b82020f220350f2
-Size: 71120
-Filename: enigma2-locale-et_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 35ed080fba94d4793521479e183e945b
+SHA256sum: 302a7ad62a54a04e0a050d19ba013b4cb3ee5a03373fc1b86f950027659ea4ee
+Size: 71140
+Filename: enigma2-locale-et_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: et
 OE: enigma2
@@ -509,15 +509,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-fa
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 69e532cf21f9d22f2982b4bd40838165
-SHA256sum: 3f585ec896808f917cb29840b845b814e572e15d205ba65be1ba6c79398b04e6
-Size: 22660
-Filename: enigma2-locale-fa_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 4bcbde77b5a705f6d0902aa20f586c59
+SHA256sum: ddd78c994d033c7ca8b5fecccb58759b4ec65dcc4574800ae4daa3d02d70c923
+Size: 22668
+Filename: enigma2-locale-fa_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: fa
 OE: enigma2
@@ -525,15 +525,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-fi
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4826866f0b98e5a8e3c7ead9a49e4ce0
-SHA256sum: c84d0d723ba8daee77ac46c43b3db8f5af2b75bd120c7135cb571e48a55060e6
-Size: 66784
-Filename: enigma2-locale-fi_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: ddf48ec80d27c38e67fcb560adfd8009
+SHA256sum: dea94a3a7dcfa243d1ced02f937556d3f468aad4400da9dee9eed33b567b43d8
+Size: 66780
+Filename: enigma2-locale-fi_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: fi
 OE: enigma2
@@ -541,15 +541,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-fr
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 2898ba07b2a1b23139e5897cf329fb6c
-SHA256sum: 3f5e49908762aa4a6436c9f8c843b165414e8370e885c20eb0a0f2a2749bf4f3
-Size: 83556
-Filename: enigma2-locale-fr_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 107752c566eea8ee957b29ebdd11287b
+SHA256sum: c5d99118150f367d09caa671d3d4489d1979a65c59bcb0c76b2ffdf1b6c61f37
+Size: 83504
+Filename: enigma2-locale-fr_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: fr
 OE: enigma2
@@ -557,15 +557,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-fy
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 27b593c347caeb839ddc9e5883a59361
-SHA256sum: 95401caaace110289c18bb99e7e6b1fbcafe32bb9b21c77076ec2c5c0a0ee9b7
+MD5Sum: 4cbc1d4145aa458aa8cdd21b33f86cee
+SHA256sum: 37537e8c3b6abf745253330963e45cd79fffea454ccc2760d1717a47aebb35ea
 Size: 16208
-Filename: enigma2-locale-fy_develop+git20870+69440df-r0_gbquadplus.ipk
+Filename: enigma2-locale-fy_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: fy
 OE: enigma2
@@ -573,15 +573,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-gl
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 49e511148dc4951b0ad9478c99f9d528
-SHA256sum: df2aac722cf4b3b8e34f7de76a253f88a7e26dc47c9d4fe15a24baa11111fe36
-Size: 81876
-Filename: enigma2-locale-gl_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 2a57c4367c24c5435c771cb63dc02495
+SHA256sum: 6358aa5d56a6461148055698146a191751ad5cc0ec7c1169a318f63a4f932f6a
+Size: 82016
+Filename: enigma2-locale-gl_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: gl
 OE: enigma2
@@ -589,15 +589,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-he
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: cd39d0e9a3dd93ab9f8a936a433b0243
-SHA256sum: 714bf887079daea84e8ec49fc2781a9444d6712330925ca9417a7347de80d6e9
-Size: 16808
-Filename: enigma2-locale-he_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 0e2d1969433bf3b0d02cbc176e34d14b
+SHA256sum: 8432370cac99480a1de3ad1357410bdf915b6138bd4e87855ef5a50e243c3861
+Size: 16794
+Filename: enigma2-locale-he_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: he
 OE: enigma2
@@ -605,15 +605,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-hr
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9e64aa40dcef17a70d723b60b001248d
-SHA256sum: 2cbaea398388925a3e51e1f9722511277c8ff12e131cba95b2f5a699564ec0db
-Size: 83094
-Filename: enigma2-locale-hr_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 144f0bb7affa5a16e4eb9ecdf2695fdc
+SHA256sum: 1ac4c9eafe62f28491f0d1ff9009ebf4555423b6c8f81e278e0fe06a9e0cdafb
+Size: 83082
+Filename: enigma2-locale-hr_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: hr
 OE: enigma2
@@ -621,15 +621,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-hu
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f3a950fac2df95d7230e27bb00ee0fd6
-SHA256sum: f62c8e8e413ab933c9b508d10cc6379089e62511f9df1b7f016e5f658e37b9df
-Size: 84202
-Filename: enigma2-locale-hu_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 0ade4adecaa8ad648a93c43fc8029f2b
+SHA256sum: 676586822b307798a32143a7f73dc54b094e19b2bdb637dca0ea2009b7b23301
+Size: 84206
+Filename: enigma2-locale-hu_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: hu
 OE: enigma2
@@ -637,15 +637,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-id
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e85f39e9fc4ae6e1a8bc70547a984093
-SHA256sum: 9fe3603124b8ca68f7460265e9dd3565ef8f6378406cc1cbdbb3ccabb36e78aa
-Size: 71260
-Filename: enigma2-locale-id_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 943b2df51a79a30b406d29645e86f0b8
+SHA256sum: f4ada59ed15e58aa6feeb57a7663cdae849e10a1d75d042408508f99d56f513b
+Size: 71266
+Filename: enigma2-locale-id_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: id
 OE: enigma2
@@ -653,15 +653,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-is
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 30b005ba196785935f39cf9a41222ba6
-SHA256sum: 07181336c85973d379ea886718ef994daeaacdbc8f8b62dbb8feeaa164c706c9
-Size: 22568
-Filename: enigma2-locale-is_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 1952667ce29e04d789499083faf513fd
+SHA256sum: ab0fb0251fe169b8fe79fa94cc81fbb9d6906f6bf417e108ade0ba2dc0bf7a3f
+Size: 22566
+Filename: enigma2-locale-is_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: is
 OE: enigma2
@@ -669,15 +669,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-it
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f610549917094e20c7de68d4c9d82675
-SHA256sum: d989d5fb86568d1ba34e4f452da077ca9c9b22b2288c50eb5b89a76bea808299
-Size: 76672
-Filename: enigma2-locale-it_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: aff7a965a79bb57f08317937dbbcd1af
+SHA256sum: bfb0e0ba3c2b82800333dec01fe8bf2642184e0f62f5deec7048466de21d3cbb
+Size: 76682
+Filename: enigma2-locale-it_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: it
 OE: enigma2
@@ -685,15 +685,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-ku
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b6340d281f279d7b43b406b5fe05ca8c
-SHA256sum: c3226055c8ae5cf2dab501310048296cc3dd5aa3d43331b728586904e99e6844
-Size: 28580
-Filename: enigma2-locale-ku_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 8160290794027a8df69d8bfb170944ab
+SHA256sum: 64dba2c0d27ea51163ee949a42a18bc83739b4a3f287496e39b443a6361f6add
+Size: 28602
+Filename: enigma2-locale-ku_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: ku
 OE: enigma2
@@ -701,15 +701,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-lt
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 278723ddbe9d9ad063c2631a4eac2822
-SHA256sum: c1d1aecea2e95e3fd0bb9e31ee8a7ad31fa486bed9f2883de34d094a8bda862a
-Size: 109108
-Filename: enigma2-locale-lt_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 2d31c0e27f556e542e648a34a9996743
+SHA256sum: eaa9c6d4be9d6bc097ec9932459bb44849d3aa55686c0cdd4ddf30cfdf8e1918
+Size: 109106
+Filename: enigma2-locale-lt_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: lt
 OE: enigma2
@@ -717,15 +717,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-lv
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: bc5e339e9c8f93a395ae671a94489d76
-SHA256sum: 484d20beace1d13d99e34a2329c0b7ed745d80f8e9214110547c113ed7203da6
-Size: 81412
-Filename: enigma2-locale-lv_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 7cbc85a82da7815f0c385e0058a894fa
+SHA256sum: 7ad34ddb2bdf1d94fabbce3847337a1def84d719855785e8fa5d6ee2f59a42b5
+Size: 81386
+Filename: enigma2-locale-lv_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: lv
 OE: enigma2
@@ -737,8 +737,8 @@ Version: 1.0-r0
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 12984b5c27b4d727757436fb71c73438
-SHA256sum: a0ea1baa116a50fed108cf6b5cc4916a716807b5aa0342a03e60dae322f4e185
+MD5Sum: 73eb3a06cdc3db894a7a17f51b6414cd
+SHA256sum: 736672eb5df0bb86176ae62f26f9929fd6315406507439cc8919836878317b7d
 Size: 678
 Filename: enigma2-locale-meta-dbg_1.0-r0_gbquadplus.ipk
 Source: enigma2-locale-meta.bb
@@ -753,8 +753,8 @@ Depends: enigma2-locale-meta (= 1.0-r0)
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a9789e1bb2525ad0309df2704e6887bc
-SHA256sum: 9da02378b462f9f4e32eb76afc98bef9060a430be05c12e2a3e4bc213ff50955
+MD5Sum: cb531b49ca3d7e471bb4a650b699119f
+SHA256sum: be47fdcc0b0210dcdbbb4a5b8e5e758f3151ca7e00d98d0211705caf5c3c3f22
 Size: 706
 Filename: enigma2-locale-meta-dev_1.0-r0_gbquadplus.ipk
 Source: enigma2-locale-meta.bb
@@ -769,9 +769,9 @@ Recommends: enigma2-locale-ar, enigma2-locale-bg, enigma2-locale-ca, enigma2-loc
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1a4627be9f3c146885880a4652f668be
-SHA256sum: 13de38fac17a085af10d86571d97fa696e51745c391f6ed23c4c54693b9ba3c9
-Size: 744
+MD5Sum: 56b1533f6d564cf8f0a3440bc252344a
+SHA256sum: 36d6591d315bdc7e99c75957237155062e497bb2a5b7fe1c36edd2e041d60bfa
+Size: 742
 Filename: enigma2-locale-meta_1.0-r0_gbquadplus.ipk
 Source: enigma2-locale-meta.bb
 Description: meta file for enigma2 locales
@@ -780,15 +780,15 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-locale-mk
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 880f46bfb01e3f0752b5e81eeb8b02e4
-SHA256sum: 797574b24c751f83541c50b8a2fa733b3a803c16a3faa0cb897f0cc05d5da10f
-Size: 88802
-Filename: enigma2-locale-mk_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 70a600af1da91c1d237c0e5638003010
+SHA256sum: 9b27b84c8b0ae1963c426bceb83585e979283c6c3b425690b6c5c5be9f24dcfc
+Size: 88806
+Filename: enigma2-locale-mk_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: mk
 OE: enigma2
@@ -796,15 +796,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-nb
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1a09cfc4c3d169106f5dbb868417d930
-SHA256sum: 034fd0e5cdec752e8855c9b9b325b18083c07dbbfc2105b369d0b2880ab91439
-Size: 79672
-Filename: enigma2-locale-nb_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: b004b586b9c32568808197e4be59b9b9
+SHA256sum: 637e4cac38f2c2c752768ecca95008cb873efd389a0c9e403365443eb64a7281
+Size: 79676
+Filename: enigma2-locale-nb_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: nb
 OE: enigma2
@@ -812,15 +812,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-nl
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: cc998c39c9a5d45148ee4d344a3afcf7
-SHA256sum: 658dcd3fed98ba10af7c28ab321736bb4f7af265439bb09b8a55472970a21117
-Size: 85812
-Filename: enigma2-locale-nl_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 324b8fd0159e0aabe3c6e007cff3a656
+SHA256sum: 6814ef4f921bca4541e63fcac343b61bc92525801208e61d04dd08c43c29a414
+Size: 85784
+Filename: enigma2-locale-nl_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: nl
 OE: enigma2
@@ -828,15 +828,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-nn
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0ffef73ebbff11e94b10975df8406a4a
-SHA256sum: 9a0f564a1896831a3fe88247a3a2f10e591b4435b9233ed8ce6203ca122a49f1
-Size: 42864
-Filename: enigma2-locale-nn_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 23c8a5e32e81ae8ae812b763e777116e
+SHA256sum: 6b6c91f65ea293ebdab2287efa9b583d64182c0df1337b8a324fd72126e7bc6f
+Size: 42868
+Filename: enigma2-locale-nn_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: nn
 OE: enigma2
@@ -844,15 +844,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-pl
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c8e9573fe185bf3481570c2e14d1b3f4
-SHA256sum: b009dc09e89d0e15163868938f48e7abd4836b47a182a2a374fa0424c3ee5fa1
-Size: 79616
-Filename: enigma2-locale-pl_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: a3325bc5ee61ab8ec333fdcf4ab8e054
+SHA256sum: 6b8b7c5623cc3d25205af4532a030153ebdd9114670c3d4a9f5a6b1434e41bbb
+Size: 79632
+Filename: enigma2-locale-pl_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: pl
 OE: enigma2
@@ -860,15 +860,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-pt-br
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ef1c5b2e18a8a0c17cccdf51b1cb5db6
-SHA256sum: 3f3e0e66fd6149a1c8ce3070d4590ba875247c53823d05d6e2521c98862d4838
-Size: 42728
-Filename: enigma2-locale-pt-br_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 358a84f7bc08ede8aa05ca7e314513d8
+SHA256sum: 117c95560ce752cb94cd3b8cc15830fbe6c1cb9acbae3c69cd7529a789a351bc
+Size: 42746
+Filename: enigma2-locale-pt-br_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: pt-br
 OE: enigma2
@@ -876,15 +876,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-pt
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 04377149a2dd98deba760226794c7d07
-SHA256sum: 8b868893589945acfee0630a78eb6fa3b40faff993e79e149dcf305577aa5297
-Size: 40564
-Filename: enigma2-locale-pt_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 9d437c66c665d5049a1ef66074bfb977
+SHA256sum: 754467452bae88d862a9718f9c6aa606e7c9374e1aa25e457e607096bd22d8ca
+Size: 40536
+Filename: enigma2-locale-pt_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: pt
 OE: enigma2
@@ -892,15 +892,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-ro
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: cf51943172892bbb1dfe4326e0c5e87a
-SHA256sum: fef92183bf8d49371e6033dcb340f324e7fe808cfdd555aaafbeb5628a83741e
-Size: 17428
-Filename: enigma2-locale-ro_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 314ddacb975f25204088bb2194b3cb5f
+SHA256sum: 576f8e97d51f6b4a8b624801f96e9afba15bb5707d2254a1411e2647dc5e1c98
+Size: 17436
+Filename: enigma2-locale-ro_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: ro
 OE: enigma2
@@ -908,15 +908,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-ru
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6d31056fd73bc1f5bdfbe02ec7a0288a
-SHA256sum: 2316a0f5f0a2014e170fece4fe7469c77fbf9fc6bbc0bdad3825390da2b2bc4f
-Size: 87948
-Filename: enigma2-locale-ru_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 92cf3418c110d8f3336ea7279e17b958
+SHA256sum: 50de49ed17c3c721135faa18d674bd0a4cc17fb71719919bfa6bd0c2501c7b2a
+Size: 87932
+Filename: enigma2-locale-ru_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: ru
 OE: enigma2
@@ -924,15 +924,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-sk
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c774beccaad73cee12be9dab83552767
-SHA256sum: 5040240001f111306446ec193c12db88600943e1c2e9dcd64f0f50d1b5420317
-Size: 84708
-Filename: enigma2-locale-sk_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 75a8574ea805820838c56c5ac4166d26
+SHA256sum: bb4f1c6b1fc1cf8c7d959f5173c43825150a6b6302a75b44ae8f1dea0824059a
+Size: 84704
+Filename: enigma2-locale-sk_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: sk
 OE: enigma2
@@ -940,15 +940,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-sl
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: df10edfee18465a9074f11925df794b2
-SHA256sum: a6a6a544d5a12eed3abb711e27a4611ef6d403a99dcb41af5c19343a443034f9
-Size: 49264
-Filename: enigma2-locale-sl_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 9e0b9da7b1cf9ec747f5f4458dff6a25
+SHA256sum: c930059a7baf3dd911ea3c2aed5d153d602013aad9d2fda83c4cfbe7cb641d8d
+Size: 49236
+Filename: enigma2-locale-sl_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: sl
 OE: enigma2
@@ -956,15 +956,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-sr
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c3f7c64b91b9a64f556c308f4bdea559
-SHA256sum: 68b2672d16d99004fce49a2c0fd59c219cf14b19ac0694060985264f1f580989
-Size: 22712
-Filename: enigma2-locale-sr_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 74f31e05529d2c89e81feea6771508ce
+SHA256sum: 43000f346310ece1235406a0a9c380137ce0441ea228115b06d6aa116be55f94
+Size: 22716
+Filename: enigma2-locale-sr_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: sr
 OE: enigma2
@@ -972,15 +972,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-sv
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8269c77815d4058a20e1cbf327aae440
-SHA256sum: 0c83ebc011712dd316a368e915c980ea1d35831c764a4eb137f9f3f244f8839f
-Size: 57188
-Filename: enigma2-locale-sv_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: a582d4b4a1fae1f08dde27967b268751
+SHA256sum: a9e9bc82fe122ad5a70cf04cab31d4546f9bc17ff13cf2e3c8609eb2bc0d591f
+Size: 57212
+Filename: enigma2-locale-sv_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: sv
 OE: enigma2
@@ -988,15 +988,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-th
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b3d1661899cd756f32177117b9ebb181
-SHA256sum: 1ea9dd31db17e5961e8d5b45435536975531037f7bc2fffed375717767a058fe
-Size: 21016
-Filename: enigma2-locale-th_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 8040a2b7c356f063fb1c05af0076f259
+SHA256sum: 230467d4edbac2174f0b8f7b28a5e226df156cc5dd8fe24816e7863a5235cb81
+Size: 20992
+Filename: enigma2-locale-th_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: th
 OE: enigma2
@@ -1004,15 +1004,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-tr
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 99aaf2bcf6019c3d296d4373bf903179
-SHA256sum: 7111270e86a4ef2cf25fa5095e9ba80d3b89d3a1775ea72ce81393cb1db249ef
-Size: 55088
-Filename: enigma2-locale-tr_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 5a9d49917698d01a1a96548c353d883c
+SHA256sum: 77cc8b8e58964866a5293365ea70b2f928b6a1eb4c775c3cd1a2343a9ba8d910
+Size: 55076
+Filename: enigma2-locale-tr_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: tr
 OE: enigma2
@@ -1020,15 +1020,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-uk
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9a6a32653c3e86de463fa179a218fdbc
-SHA256sum: f94ce68e7ac68068a8614b15e697a7efbd3d9be4ab42cbfcab24c106ec48fbf5
-Size: 76176
-Filename: enigma2-locale-uk_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 44f5d2dddcae2aa4461e0a210cca153c
+SHA256sum: bcdaef5d8bc128b1e7223ced9f7598882ea35d9d882ee35475772ad146343870
+Size: 76160
+Filename: enigma2-locale-uk_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: uk
 OE: enigma2
@@ -1036,15 +1036,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-vi
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6f05e74949290ffb5d6345b51f3c6d28
-SHA256sum: 323b153b69ec29d93303fed31c1638c883f61b7d9f9add8333a58a0c713745d6
+MD5Sum: 7650280eee608821e15d11196fffa344
+SHA256sum: f8dd53dc1a3363e03d6fbb236ae2fc32a392439902725f05f4418bc8fc96f9f2
 Size: 78688
-Filename: enigma2-locale-vi_develop+git20870+69440df-r0_gbquadplus.ipk
+Filename: enigma2-locale-vi_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: vi
 OE: enigma2
@@ -1052,15 +1052,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-zh-cn
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7abf32ce625d0bb20d443f2e91111c1b
-SHA256sum: 7ae4a1c77ebbeb30cdadc3b17b891188fad35566e2cdb2bbf3a18d051775ab22
-Size: 70228
-Filename: enigma2-locale-zh-cn_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 0a78a8e46006c6743eea760f3a48f388
+SHA256sum: e04a369f6bee129010630f3406367cdb628422a31b40ab09ee43a0affbbd3488
+Size: 70222
+Filename: enigma2-locale-zh-cn_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: zh-cn
 OE: enigma2
@@ -1068,15 +1068,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-locale-zh-hk
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: enigma2
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a27e67dbc38505560f3df43a8fd3a307
-SHA256sum: 55e2644d9a29b15d218411e1e0eb4d77b5b325f8dd2021486cefd1cbbd2a11c6
-Size: 20800
-Filename: enigma2-locale-zh-hk_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: c8b2422b6d31f1ec816cfa76759f7176
+SHA256sum: e03d1fd5af0b635c9b2536e499d10024c50dc2e10d079684cc288a6aebc5cf8a
+Size: 20814
+Filename: enigma2-locale-zh-hk_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: zh-hk
 OE: enigma2
@@ -1084,14 +1084,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-meta
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b22522e1ab76a4fd6f9f1aea2b47a1f4
-SHA256sum: 67da59deb277119908e3f76bd30998e3c04c088c145eb93f4718d1de293475d6
-Size: 3982
-Filename: enigma2-meta_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 9f14935c023de1ce838e9bbdac1ff9e1
+SHA256sum: 9e0fd2018433534373981f986920bf2492afca43bdbb4cb6c55fcb1a7fca86d3
+Size: 3964
+Filename: enigma2-meta_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers
 OE: enigma2
@@ -1104,9 +1104,9 @@ Depends: enigma2-c-plugins
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d51dac2cf2abe87384b112d7ee103834
-SHA256sum: 3131de82a8d76a30762d51cd0f2423160fad8c9876ef6d535dea1662a8b14c28
-Size: 3304
+MD5Sum: ea4487f964e32ef0b52a1ecb076f2d5a
+SHA256sum: 8927bf7832b9aabdd0fa5014593f9e1ca7b1db7fa329a0de0ed742983f181869
+Size: 3308
 Filename: enigma2-plugin-extensions-airplayer-po_git29+45c3a7e-r0_gbquadplus.ipk
 Source: enigma2-c-plugins.bb
 Description: extensions-airplayer (translations)
@@ -1120,9 +1120,9 @@ Depends: enigma2, gst-plugins-bad-fragmented, hairtunes, libc6 (>= 2.33), python
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f3059e1c9d6c3b7a21fe7a5e459971d1
-SHA256sum: 8594ab6bf3bc4accdf50ae7927691bb3bd6759633d3cdbc45e988a8156cda70d
-Size: 85186
+MD5Sum: 458cd61ffaf850ce1e043b20e839516f
+SHA256sum: f75ef441eee0a16c3553d65d795481ced5af830b7bdb908e2c896a8ccdb3f6e3
+Size: 85182
 Filename: enigma2-plugin-extensions-airplayer_git29+45c3a7e-r0_gbquadplus.ipk
 Source: enigma2-c-plugins.bb
 Description: extensions-airplayer
@@ -1131,15 +1131,15 @@ License: GPLv3
 Priority: optional
 
 Package: enigma2-plugin-extensions-cutlisteditor
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: aio-grab
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: cd716c742a68fa35c8cb587549a3a11d
-SHA256sum: feeb234952a6f07d89e1adc95757303de60ce7999c9534cef4190748c66466b4
-Size: 11242
-Filename: enigma2-plugin-extensions-cutlisteditor_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 64378e064e3226649481137cc06e9dea
+SHA256sum: eb467ef113c64b0a4efc7fcd4985ac2ba3e11f05cab6c0a6600f3967f1884411
+Size: 11238
+Filename: enigma2-plugin-extensions-cutlisteditor_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: extensions-cutlisteditor
 OE: enigma2
@@ -1147,15 +1147,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-dvdburn
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: cdrkit, dvd+rw-tools, dvdauthor, kernel-module-pktcdvd, mjpegtools, python-imaging, replex
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 85bc14327cd326d29990df28a7890286
-SHA256sum: 1246298817c723346c8e05e587c386c5ccc3e84109dfb6318f7af4d94dd0d965
-Size: 796766
-Filename: enigma2-plugin-extensions-dvdburn_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 6f18d901b3ec2b0b6892d3aa061923c0
+SHA256sum: e751bb0e90341f82d7d8b52a3376c503db55448127d40eb6e300b2c147c9db17
+Size: 796826
+Filename: enigma2-plugin-extensions-dvdburn_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: extensions-dvdburn
 OE: enigma2
@@ -1163,15 +1163,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-dvdplayer
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: kernel-module-udf
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 60f3f00e008214cf9b393039a84b7bd4
-SHA256sum: 5d508d1d038c23b8516c70a90d903ffa29cb3e2be0a6b4b25a207e7326eb0fe7
+MD5Sum: e24b453a0b3146d4272d491d591eb152
+SHA256sum: cc55123ced5c23204bba0b4c8e72d5c879419da1c38652655649cf77b9c840be
 Size: 2666
-Filename: enigma2-plugin-extensions-dvdplayer_develop+git20870+69440df-r0_gbquadplus.ipk
+Filename: enigma2-plugin-extensions-dvdplayer_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: extensions-dvdplayer
 OE: enigma2
@@ -1179,14 +1179,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-graphmultiepg
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 89dc8c632bdd10befd5f272d446642d8
-SHA256sum: 07e63583438692e66d06fd93a2880fddd5849ad12da33ca5d04f8cc6ddcc853e
-Size: 22220
-Filename: enigma2-plugin-extensions-graphmultiepg_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: ddafa955febe44ad669e6c6fd60e182e
+SHA256sum: 290b1dbe41e9dddf0ffadf66af962abb46732679cc6d82cf2f3e473e3895dcc5
+Size: 22212
+Filename: enigma2-plugin-extensions-graphmultiepg_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: extensions-graphmultiepg
 OE: enigma2
@@ -1194,14 +1194,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-mediaplayer
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f12bae555ddd8af9f41cdaa27d973be6
-SHA256sum: 05daa6cf1048e4925925a2e98545668b3ec14df6d088b21570d5bdf6a5595559
-Size: 20568
-Filename: enigma2-plugin-extensions-mediaplayer_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 39fd79e90bc9839d09bdcd6a1ab42094
+SHA256sum: 10d2801ecf53f19b88c9b293cdcbb6b936a9e8e2235afebe3b9f32a52a244e8d
+Size: 20564
+Filename: enigma2-plugin-extensions-mediaplayer_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: extensions-mediaplayer
 OE: enigma2
@@ -1209,14 +1209,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-mediascanner
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e6ea9edd8387e9f526d6209e97f7b50f
-SHA256sum: 0fb79626f0dfd41e52300b7905db6c9f61dacb7f7193ad9985e3430406765e1e
-Size: 5414
-Filename: enigma2-plugin-extensions-mediascanner_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 095f2b249ab7041f660d27ee578306fe
+SHA256sum: 1748ffed3f019edf90e3523ee6b1e10841f8b90aa37c44d3c015642b05164318
+Size: 5408
+Filename: enigma2-plugin-extensions-mediascanner_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: extensions-mediascanner
 OE: enigma2
@@ -1229,9 +1229,9 @@ Depends: enigma2-c-plugins
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ebeb32bd6ee1d90eaa4bd377ea71f9d6
-SHA256sum: 7ee2b38f71d219b0c0cd55d99eedf81761ca71c8529769acc7f621b76ad71fa7
-Size: 7936
+MD5Sum: 94dae2dc9426dd47bb4b90820ad901e1
+SHA256sum: 922cf08de3ade587d5c85d46341e90e423e96d6b940487aaf9ea8b19feca26f3
+Size: 7932
 Filename: enigma2-plugin-extensions-moviecut-po_git29+45c3a7e-r0_gbquadplus.ipk
 Source: enigma2-c-plugins.bb
 Description: extensions-moviecut (translations)
@@ -1245,9 +1245,9 @@ Depends: enigma2, libc6 (>= 2.33), libgcc1 (>= 10.2.0), libstdc++6 (>= 10.2.0)
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 38eb6508f58cd53a905fdc6d4f84204d
-SHA256sum: d6099a67043a9cd62b8a09c86cadb4d938fbf7a5cbed399cb66a0ed78ac6f38b
-Size: 23064
+MD5Sum: efc683d710f1104e83a4b3a1e7dfa642
+SHA256sum: 3de1fa76158a3f724cebf697003b043accf972ec21814a33f3874159a4ecc67f
+Size: 23038
 Filename: enigma2-plugin-extensions-moviecut_git29+45c3a7e-r0_gbquadplus.ipk
 Source: enigma2-c-plugins.bb
 Description: extensions-moviecut
@@ -1431,14 +1431,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-pictureplayer
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 5f6ff05d8cadcf4f8c87c0285e9b8959
-SHA256sum: 9c5c6b51d1d9b23b711cc5812f83b8532576bf069ef9db4fc892f5e577f66032
-Size: 13320
-Filename: enigma2-plugin-extensions-pictureplayer_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 90b6f95e9739dfbc7ad5b627437ebc1f
+SHA256sum: 70ad5912f1e03758e4cd54b78dec32a92a44cbf3265b603b312ff55188af11d3
+Size: 13318
+Filename: enigma2-plugin-extensions-pictureplayer_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: extensions-pictureplayer
 OE: enigma2
@@ -1446,15 +1446,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-socketmmi-dbg
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Recommends: freetype-dbg, fribidi-dbg, giflib-dbg, glib-2.0-dbg, glibc-dbg, libavahi-client-dbg, libavahi-common-dbg, libcrypto-dbg, libdreamdvd-dbg, libdvbsi++-dbg, libgcc-dbg, libgomp-dbg, libjpeg-turbo-dbg, libpng-dbg, libpython2-dbg, libsigc++-2.0-dbg, libssl-dbg, libstdc++-dbg, libtuxtxt-dbg, libudfread-dbg, libxcrypt-dbg, libxml2-dbg, tuxtxt-enigma2-dbg
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f8049755c07e90f10b52b1feca1ea82a
-SHA256sum: 5e9bc179696f9dbe3228717db4f802c565dac43d1eada1ffdf6caa292091376e
-Size: 12612410
-Filename: enigma2-plugin-extensions-socketmmi-dbg_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 0c5ab0c8717f336267dd92ff7bea57b8
+SHA256sum: 2fd90a6cec1623fbfdc21f3eb2a9d44d7c980085aa0262db5059d7cf35a1498f
+Size: 12610080
+Filename: enigma2-plugin-extensions-socketmmi-dbg_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi (debug)
 OE: enigma2
@@ -1462,14 +1462,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-socketmmi-staticdev
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 3ce8a83e30d53a34ec4c66977776ca07
-SHA256sum: ce817fd9218f5ff91750ba546be90e8d644eb0c7e76386f3d2581e9a6d4e1b2d
-Size: 92594
-Filename: enigma2-plugin-extensions-socketmmi-staticdev_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: d5d76a28a977b6d79fbf33765a1dbfa3
+SHA256sum: 73c21827a380f5086ae5fb32d077a91483c967e422c0a5f33c9ed0be549f7495
+Size: 92646
+Filename: enigma2-plugin-extensions-socketmmi-staticdev_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi (static development)
 OE: enigma2
@@ -1477,15 +1477,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-socketmmi
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: libc6 (>= 2.33), libgcc1 (>= 10.2.0), libstdc++6 (>= 10.2.0), libudfread0 (>= 1.1.1+git104+2ba6fa9), libxml2 (>= 2.9.10)
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: eee4f93af753677f161d3d2ac79743c1
-SHA256sum: e58a50a9134780eb31cde3c93e4c837d7fe332cf7db258ea866742b1ef63d881
-Size: 10362
-Filename: enigma2-plugin-extensions-socketmmi_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 16c95cbb202769f00e66c127fd80d8a7
+SHA256sum: bfda5d056e80e17a075e1cf00503978524788883e8204e0f3d5e4caf89fac1b4
+Size: 10344
+Filename: enigma2-plugin-extensions-socketmmi_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi
 OE: enigma2
@@ -1493,14 +1493,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-fonts-wqy-microhei
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 37ee5479abbdd5a6f2af960045bba353
-SHA256sum: 20680aa3a43c8ac6cc69f83c704e23bfb8f5a5d975f33e64fd0e6e654da0e520
-Size: 1544088
-Filename: enigma2-plugin-fonts-wqy-microhei_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 1bab1004ea4c8d41b3cee36eeb4c5e09
+SHA256sum: 60b62cda2422abd30e192635ba183c4c1c1af92349fd5d89b05f32de852cfd39
+Size: 1544266
+Filename: enigma2-plugin-fonts-wqy-microhei_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers
 OE: enigma2
@@ -1508,14 +1508,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-animationsetup
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f7f33862d21358386fea546cda0b28e4
-SHA256sum: 643333b5317f38864a93fa565ddf2e20015d82ca45b7c102a23ff2a41ec81fb8
-Size: 4514
-Filename: enigma2-plugin-systemplugins-animationsetup_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 61dd08a2d58bd472de41a7971abd44b0
+SHA256sum: b487eb0ed955838a25ac8049179824d86c3e4e2b374f18f75de9358933aff2de
+Size: 4504
+Filename: enigma2-plugin-systemplugins-animationsetup_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: systemplugins-animationsetup
 OE: enigma2
@@ -1523,14 +1523,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-cablescan
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6053234e88c02387c2748f95b0613b63
-SHA256sum: fd1beb5cc39d5ab88299a6b0366132b9a4ebdb9cf52a6896095f10fb4a2a16d6
-Size: 5852
-Filename: enigma2-plugin-systemplugins-cablescan_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 309a52d68bfec5739a459fa190095627
+SHA256sum: 44b4b382b0a9f351b3d5d42d904f692dddbeb73accaabad2267d0a41fc4ffa1c
+Size: 5854
+Filename: enigma2-plugin-systemplugins-cablescan_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: systemplugins-cablescan
 OE: enigma2
@@ -1538,14 +1538,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-commoninterfaceassignment
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7ccad424baf702a1a5780515e42800ed
-SHA256sum: d932f1a3667bf2d736d4b87cf2fa6e8f4d59c94da125f5dd75ff65f73bdcc0eb
-Size: 9732
-Filename: enigma2-plugin-systemplugins-commoninterfaceassignment_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 07a68e607cf941c7f1f74db625cb9b08
+SHA256sum: a852ad6507e72683afbc32cf7439447039a32d67a8ed988dc079889e6f8bcaa5
+Size: 9722
+Filename: enigma2-plugin-systemplugins-commoninterfaceassignment_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: systemplugins-commoninterfaceassignment
 OE: enigma2
@@ -1553,14 +1553,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-defaultservicesscanner
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 21fc32b3a407b1a776a3ba6d19c6c769
-SHA256sum: 95b92726452d365c2deacd6ac0b1155ce118ce250c68b0dea8b499e1b83dfa32
-Size: 3426
-Filename: enigma2-plugin-systemplugins-defaultservicesscanner_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 4f4c6fdb93f5c7d716486ea3737ccaa0
+SHA256sum: 763c91502333de40afceac7a772cef62f116c8d998471c22d373b742fe83bc3e
+Size: 3420
+Filename: enigma2-plugin-systemplugins-defaultservicesscanner_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: systemplugins-defaultservicesscanner
 OE: enigma2
@@ -1568,14 +1568,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-diseqctester
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: aea7ee6d6d975ccc533fadf0691008ba
-SHA256sum: 7f75317cf4fefd49655123f52555cedfe940367c424b80e4d7150bbf7190cb23
-Size: 8918
-Filename: enigma2-plugin-systemplugins-diseqctester_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 366d6742ad907df1625501bc7092aedb
+SHA256sum: 65c76f66a92a25729b0604c3a2b1aa04967afc7bd295395e86f0109c46ff340d
+Size: 8908
+Filename: enigma2-plugin-systemplugins-diseqctester_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: systemplugins-diseqctester
 OE: enigma2
@@ -1583,14 +1583,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-fastscan
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1257b2efbc782e3840a2672036111182
-SHA256sum: 2b34273589e23cb664623596e8d891cff2a2d7a32524f5c03b2a5a1001deb22d
-Size: 7472
-Filename: enigma2-plugin-systemplugins-fastscan_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 736c91790d2dd127bc8ec631cde23290
+SHA256sum: fa62bb7ad930d4c11df2ed6141a31174fe9a3398b11ae6dc646770aa3b57ded2
+Size: 7464
+Filename: enigma2-plugin-systemplugins-fastscan_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: systemplugins-fastscan
 OE: enigma2
@@ -1598,14 +1598,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-hdmicec
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b9eda198237c640c6a53320427ae4686
-SHA256sum: d65a6a5614717a8d6b57e6466de830916cedcd3158bfe2992adf6067b3ba4126
-Size: 4372
-Filename: enigma2-plugin-systemplugins-hdmicec_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: d441fc48191c03dc647a942812047002
+SHA256sum: a3088a6434ea48518481b4ea885d03e8f4f19f4623862a1e5084e071d96f52ff
+Size: 4374
+Filename: enigma2-plugin-systemplugins-hdmicec_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: systemplugins-hdmicec
 OE: enigma2
@@ -1613,15 +1613,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-hotplug
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: hotplug-e2-helper
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7d17cc6abba1bb2a1643ffe00532fbb0
-SHA256sum: 7bd13fd8da81f023f4cbd9e40461a2f62916f3a8e7cea3119868b81e1b8ccde6
-Size: 2658
-Filename: enigma2-plugin-systemplugins-hotplug_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: bab50d2381fe0eebb53faeaa4c5a7a5a
+SHA256sum: 0468dc40f90048996eaa6780012967463fef9ac75a6d5c6f30a8eacb78164a56
+Size: 2654
+Filename: enigma2-plugin-systemplugins-hotplug_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: systemplugins-hotplug
 OE: enigma2
@@ -1634,9 +1634,9 @@ Depends: enigma2-c-plugins
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: cc313cdd8962eb6435837fe206b2f6b9
-SHA256sum: 2cf4835551cc2a506c501a38cf39ca108e8011440e5bca81b61416399b30f9de
-Size: 6040
+MD5Sum: 39e7448a1c09663fbe26c055b123d7ca
+SHA256sum: 3e961df38c1efeb5c76744c04d2ea47397d093aa32d2d97031a348c6711a6f3c
+Size: 6032
 Filename: enigma2-plugin-systemplugins-misplslcnscan-po_git29+45c3a7e-r0_gbquadplus.ipk
 Source: enigma2-c-plugins.bb
 Description: systemplugins-misplslcnscan (translations)
@@ -1650,9 +1650,9 @@ Depends: enigma2, libc6 (>= 2.33), libtirpc3 (>= 1.3.1)
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: fca837da25a5ec6ee77ba670d57e9dae
-SHA256sum: b31696d09cb19e78aa1804cbbcf4b76903e79b71a9b229f06cfff69e2c8c4390
-Size: 24566
+MD5Sum: d4b1b7786ea57c780a1c5351556af155
+SHA256sum: 1ee2da80196bc2bb5de67d14351f0d2aa81b22a519f26a571ce66d2d77304a76
+Size: 24586
 Filename: enigma2-plugin-systemplugins-misplslcnscan_git29+45c3a7e-r0_gbquadplus.ipk
 Source: enigma2-c-plugins.bb
 Description: systemplugins-misplslcnscan
@@ -1666,9 +1666,9 @@ Depends: enigma2-c-plugins
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b3f78a6812815eeab260ba241a348070
-SHA256sum: 89334c45ca73ab433b4f13484b1aaa48e78b357100ab0fa45c53bbd14a533ec3
-Size: 29056
+MD5Sum: 98df44074e972562525dfa6c956d6410
+SHA256sum: 6171d1f14f5ab7b276e322ac4b3dbf13bcaa790be11543fb1052de5633cd567f
+Size: 29034
 Filename: enigma2-plugin-systemplugins-networkbrowser-po_git29+45c3a7e-r0_gbquadplus.ipk
 Source: enigma2-c-plugins.bb
 Description: systemplugins-networkbrowser (translations)
@@ -1682,9 +1682,9 @@ Depends: enigma2, libc6 (>= 2.33), libtirpc3 (>= 1.3.1)
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7d1bcd490c8a8ef9ebba959276f56aef
-SHA256sum: d477baf171ce98abb6fa067c0fbaa30668d3945875bddc596c10c3c489236e90
-Size: 88338
+MD5Sum: 117301066ca47a06ea48057142c84346
+SHA256sum: a7e4520a3049c1c53d333d31dde6b72588aa6a1bc0423f9db73e7f00a291887c
+Size: 88302
 Filename: enigma2-plugin-systemplugins-networkbrowser_git29+45c3a7e-r0_gbquadplus.ipk
 Source: enigma2-c-plugins.bb
 Description: systemplugins-networkbrowser
@@ -1693,14 +1693,14 @@ License: GPLv3
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-networkwizard
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e5baf5402e3e1139ecf1b0e93c4bb6e8
-SHA256sum: 3e07da678254f62bc3f37bc93735e662a2d72b59de195632a6f4879262e0b2b4
-Size: 7346
-Filename: enigma2-plugin-systemplugins-networkwizard_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: f5eb2625b96119d1b2942ac47ab64d95
+SHA256sum: d47f2223b74dd2261c24fe2a42ad74f83cf61b175f98ffa079d2141d3faf4649
+Size: 7340
+Filename: enigma2-plugin-systemplugins-networkwizard_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: systemplugins-networkwizard
 OE: enigma2
@@ -1708,14 +1708,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-osd3dsetup
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 12040baa9da3a9badad5edac3fbdc2a1
-SHA256sum: 1402fb97f1deb182b923f78fdb2d171128f72dd16f50ebeba6ae21cd47f5c0f6
-Size: 3468
-Filename: enigma2-plugin-systemplugins-osd3dsetup_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 758fe4e69867ff5fac868027b319fa8e
+SHA256sum: 45c5b68c17e1e253604f95434511ccd8f41d94f8ce69e5211ae60c6db72211d9
+Size: 3466
+Filename: enigma2-plugin-systemplugins-osd3dsetup_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: systemplugins-osd3dsetup
 OE: enigma2
@@ -1723,14 +1723,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-osdpositionsetup
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f7550fad130dbb0260a211fca6acd162
-SHA256sum: 4e3e5f4cba71ce30c873fe9adbfd03c1894bd94b25e2957de7e1082ebe8418bb
-Size: 5548
-Filename: enigma2-plugin-systemplugins-osdpositionsetup_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 1642777fe96cb16503446d159b456a91
+SHA256sum: e4289434c15a2644c30ac636d25e3e3f588e0d7cbdaf6b8a4ab256c14b5415bf
+Size: 5554
+Filename: enigma2-plugin-systemplugins-osdpositionsetup_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: systemplugins-osdpositionsetup
 OE: enigma2
@@ -1738,14 +1738,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-positionersetup
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d5ec4ea0e23700a7e89b47b333754584
-SHA256sum: cb1c34ca099610d7a6c12e1b746fd9ae276d70e9c5bb05a2fe1229c8032789b0
-Size: 21246
-Filename: enigma2-plugin-systemplugins-positionersetup_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 667c80552429171f6c8264261316b6d0
+SHA256sum: e9bef240d1e17d295a2a1af3e9d9fe0b7e40164bcf7f62334ebb5cac86dfd15f
+Size: 21250
+Filename: enigma2-plugin-systemplugins-positionersetup_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: systemplugins-positionersetup
 OE: enigma2
@@ -1753,14 +1753,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-satelliteequipmentcontrol
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d1d00a7e50e719dfd417a8453569ce95
-SHA256sum: a0e9540ad147860e9a44495931207b40e018297e70c48ed24682a51eb2dedb8a
-Size: 2876
-Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 9d8491401e9fee11bc267c7fd96c58c8
+SHA256sum: 640d867a01f357f3b4d183aa557d8bad72854bf03c37438c2bed98e5cdb9e9c1
+Size: 2866
+Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: systemplugins-satelliteequipmentcontrol
 OE: enigma2
@@ -1768,14 +1768,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-satfinder
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: fecc6f5869e4c78c7ad1e84d4d266746
-SHA256sum: 98ce9a64567d7551214aec15c569b93679f7f78fe467a12883bba69ac6d82e56
-Size: 11960
-Filename: enigma2-plugin-systemplugins-satfinder_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 857f43a929fc919af957bbb74c2e7550
+SHA256sum: 270dc3a042862324687a2ffbf0f5856ae8a4d3dcf912380f9d2a69f564f1f24b
+Size: 11966
+Filename: enigma2-plugin-systemplugins-satfinder_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: systemplugins-satfinder
 OE: enigma2
@@ -1789,9 +1789,9 @@ Recommends: glibc-dbg, libcrypto-dbg, libgcc-dbg, libssl-dbg, libstdc++-dbg, uch
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 425e1247ea26d449a12e8e85b2ad825d
-SHA256sum: e4ed48287fb543fc7c449f5cea91d46872ddb337a41756b02b2e415b90c17edd
-Size: 939772
+MD5Sum: 11145395c103202697b4e0a4fc0e69b8
+SHA256sum: a32c68144d21f9ec1e4d3c19e2b6be95b3e47bd6e359c20425e65027dc5c3f7b
+Size: 939748
 Filename: enigma2-plugin-systemplugins-serviceapp-dbg_git175+bb7431f-r0_gbquadplus.ipk
 Source: enigma2-plugin-systemplugins-serviceapp.bb
 Description: enigma2-plugin-systemplugins-serviceapp version gitAUTOINC+bb7431fa3a-r0 - Debugging files
@@ -1806,9 +1806,9 @@ Recommends: enigma2-dev, glibc-dev, libcrypto-dev, libgcc-dev, libssl-dev, libst
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f988b7e0b63d7f496fc15a23d3b6272c
-SHA256sum: 570b3d74cd20b70095bceddad0f340f25408318522109adb1dd93ba166cc49be
-Size: 800
+MD5Sum: 0b33ceba035cea918f17e26b20e242f0
+SHA256sum: e2c32d60f847f8c057c2ecce75151794521555170b78c9a27fdf74b246f88aed
+Size: 802
 Filename: enigma2-plugin-systemplugins-serviceapp-dev_git175+bb7431f-r0_gbquadplus.ipk
 Source: enigma2-plugin-systemplugins-serviceapp.bb
 Description: enigma2-plugin-systemplugins-serviceapp version gitAUTOINC+bb7431fa3a-r0 - Development files
@@ -1821,9 +1821,9 @@ Version: git175+bb7431f-r0
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8af28b9dc8610253e2a0fa4bdf96849b
-SHA256sum: e59daaa343f684ddbb97eb5a0d48f08a2e708151d99d64542564608642717e4d
-Size: 5550
+MD5Sum: ed43ccab84f8c732430618b50688d310
+SHA256sum: 0cb3ae858addca4f0d6c342929a9d3db00fe00c66b1aff5c84990637f583052f
+Size: 5552
 Filename: enigma2-plugin-systemplugins-serviceapp-src_git175+bb7431f-r0_gbquadplus.ipk
 Source: enigma2-plugin-systemplugins-serviceapp.bb
 Description: enigma2-plugin-systemplugins-serviceapp version gitAUTOINC+bb7431fa3a-r0 - Source files
@@ -1838,9 +1838,9 @@ Recommends: exteplayer3, gstplayer
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6c4b7c69975529d0ccba031de7179e5e
-SHA256sum: 7b3938b17dbada3f804eb749ca70c0d8d96550bdb6fa60729d581b9516ba3feb
-Size: 94930
+MD5Sum: fa9a26d0890d9b4a108616c0d85aedc1
+SHA256sum: aec857b2c3f0c150b27e30b0a0c28dd7550861fb907797803d2c17771bd29581
+Size: 94940
 Filename: enigma2-plugin-systemplugins-serviceapp_git175+bb7431f-r0_gbquadplus.ipk
 Source: enigma2-plugin-systemplugins-serviceapp.bb
 Description: systemplugins-serviceapp
@@ -1855,9 +1855,9 @@ Recommends: glib-2.0-dbg, glibc-dbg, gstreamer1.0-dbg, libgcc-dbg, libgstaudio-1
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0d37cc0c8c13a3c4d1179ff5664a28cb
-SHA256sum: 29336fefd24cf1e1549889db0d0ac8f64967435b2784e22a0c8df1834633d5e3
-Size: 368072
+MD5Sum: 070d69cf18d2864f8a4c7216ec7ca8b1
+SHA256sum: 2dcd5913733b556673c52c848116bc029b65f44bf9d71ed3df956bef11db4d77
+Size: 368078
 Filename: enigma2-plugin-systemplugins-servicemp3-dbg_git53+f9c7a89-r0_gbquadplus.ipk
 Source: enigma2-plugin-systemplugins-servicemp3.bb
 Description: enigma2-plugin-systemplugins-servicemp3 version gitAUTOINC+f9c7a89cec-r0 - Debugging files
@@ -1872,9 +1872,9 @@ Recommends: enigma2-dev, glib-2.0-dev, glib-networking-dev, glibc-dev, gstreamer
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 5dd4013715f0606a7975e9f4d78e9d89
-SHA256sum: 56c3640a1efc6ee0cfb5338707de27d4b8caa0dd668c1cfac02a3b2270fa4b37
-Size: 1090
+MD5Sum: c220c468cb1b1e69b29f13e5d8c3a962
+SHA256sum: 74952202f35a4b01488b35f86647e408abdb962c3b3d4e5aaf5b8f7df83cd221
+Size: 1088
 Filename: enigma2-plugin-systemplugins-servicemp3-dev_git53+f9c7a89-r0_gbquadplus.ipk
 Source: enigma2-plugin-systemplugins-servicemp3.bb
 Description: enigma2-plugin-systemplugins-servicemp3 version gitAUTOINC+f9c7a89cec-r0 - Development files
@@ -1887,9 +1887,9 @@ Version: git53+f9c7a89-r0
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f65a4f6643f37d2f60a1fe9d44543ead
-SHA256sum: 2ff37c780377ea1d860127ac6836f2e1ddaca8d05125b256a291af747851f080
-Size: 1070
+MD5Sum: bfb0abafaade08afbbbdefdd16e7cb7c
+SHA256sum: e5124c5f555d408849b5af5e2e0eca6b69f7f99f16ab9a26f550c53df91e1d90
+Size: 1072
 Filename: enigma2-plugin-systemplugins-servicemp3-src_git53+f9c7a89-r0_gbquadplus.ipk
 Source: enigma2-plugin-systemplugins-servicemp3.bb
 Description: enigma2-plugin-systemplugins-servicemp3 version gitAUTOINC+f9c7a89cec-r0 - Source files
@@ -1904,9 +1904,9 @@ Provides: virtual/enigma2-mediaservice
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 3fcd411e360ebd3a44d9f171ab7dca36
-SHA256sum: a46aebc3b93633a356ed80898c48a8b1cbbddc40bedcbad450e88c7a547704b3
-Size: 45870
+MD5Sum: b100900aa0a07e21c128fd2a225c97de
+SHA256sum: 007dcb5e76f48d2b103a83c90df381cbfc1f683a129a9daa1b11e01966c1d537
+Size: 45914
 Filename: enigma2-plugin-systemplugins-servicemp3_git53+f9c7a89-r0_gbquadplus.ipk
 Source: enigma2-plugin-systemplugins-servicemp3.bb
 Description: systemplugins-servicemp3
@@ -1915,15 +1915,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-softwaremanager
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: python-twisted-web
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 110fc8050581d51b0e8457d8cff18592
-SHA256sum: daa65bccfedb38472ef2aae77225cc23f3179f02b34844311bc3a318c1f76cdb
-Size: 42918
-Filename: enigma2-plugin-systemplugins-softwaremanager_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 31f95a8a655fc00a29131422b42e8438
+SHA256sum: 7399a3e2463f0164348cd2136ae9424faf1410997503825bd9c00543bba65051
+Size: 42906
+Filename: enigma2-plugin-systemplugins-softwaremanager_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: systemplugins-softwaremanager
 OE: enigma2
@@ -1936,9 +1936,9 @@ Depends: enigma2-c-plugins
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1caa8652599bfb8199d166c6e4e131ef
-SHA256sum: d037814fc7d43d53df51cfa29ffdfec0eb6ee97ab5964192ed7584fc41f342cd
-Size: 9954
+MD5Sum: 7f94713e4ebd86e657b3d31a54f8cfc9
+SHA256sum: c748fbfd554bd06bd27061a1b74081c8dbb456b95c0c42667d54a12eb8ca1e43
+Size: 9944
 Filename: enigma2-plugin-systemplugins-terrestrialscan-po_git29+45c3a7e-r0_gbquadplus.ipk
 Source: enigma2-c-plugins.bb
 Description: systemplugins-terrestrialscan (translations)
@@ -1952,9 +1952,9 @@ Depends: enigma2, libc6 (>= 2.33), libtirpc3 (>= 1.3.1)
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: cf5fb421397da8b1ec5ba7ac0ed50d4a
-SHA256sum: 04f1e615f0fd95e5c900627c239614a9662c862c5c0b93e5e5cf2a4c5bc6771f
-Size: 33228
+MD5Sum: 664bb996b8c2619afedb47282f8a0fc9
+SHA256sum: 864de0d22236eac2dd028e6f44d73dace2847a9cb779961e3bc4f902beac31bd
+Size: 33206
 Filename: enigma2-plugin-systemplugins-terrestrialscan_git29+45c3a7e-r0_gbquadplus.ipk
 Source: enigma2-c-plugins.bb
 Description: systemplugins-terrestrialscan
@@ -1963,14 +1963,14 @@ License: GPLv3
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videoclippingsetup
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ff1788ad2a7d70162922b33b04031a46
-SHA256sum: 74ad32eb2793d386b2f4651bad3194c31bfff58c9eacd09f83354afe66583645
-Size: 3066
-Filename: enigma2-plugin-systemplugins-videoclippingsetup_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: e734951a1ab74cecda7f2a8ff69784aa
+SHA256sum: 1a2a203feb1268fd4e6bdd3d8fc9ccffc14ee2805ce62631f75744dde165d0db
+Size: 3064
+Filename: enigma2-plugin-systemplugins-videoclippingsetup_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: systemplugins-videoclippingsetup
 OE: enigma2
@@ -1978,14 +1978,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videoenhancement
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 3cc970ec52cbcbaf54097e35676d7b8e
-SHA256sum: 12ca9169458b7511370980494344952b9a0fc0873717572ec45213ed3e47b1cd
-Size: 8380
-Filename: enigma2-plugin-systemplugins-videoenhancement_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 18848e930b47e2802ee02318b433818d
+SHA256sum: 3e2738306266700c85c8a96e4e9fbfca4e617561a3924ae6991f1946bfde66e0
+Size: 8388
+Filename: enigma2-plugin-systemplugins-videoenhancement_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: systemplugins-videoenhancement
 OE: enigma2
@@ -1993,14 +1993,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videomode
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c6998a62d06503cd95c59074a0c7cc40
-SHA256sum: 9225058d073913bf26696d599e8e0ddcf7d38c6c4fc76d8c46a36273d0aa4c81
-Size: 58860
-Filename: enigma2-plugin-systemplugins-videomode_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 7d34efbee54030cc5bf270b2dc53b197
+SHA256sum: 1df1b760d6ece8fe37b01734d66d3e9ace2d1bcfa14b5840a789884705f4a9fe
+Size: 58858
+Filename: enigma2-plugin-systemplugins-videomode_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: systemplugins-videomode
 OE: enigma2
@@ -2008,14 +2008,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videotune
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 362491c36498c95e64e8601ccbc333a2
-SHA256sum: 94b2334421aa889a3879092736042ac79066513e6b23bfc54091321201489f6b
-Size: 65152
-Filename: enigma2-plugin-systemplugins-videotune_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: c5c3dde5110c5714182c610cd0516113
+SHA256sum: 01ca269c2ff91646d7232893cb540d5ebd32a1c1d54610edf2e255a3a11bf82d
+Size: 65154
+Filename: enigma2-plugin-systemplugins-videotune_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: systemplugins-videotune
 OE: enigma2
@@ -2028,9 +2028,9 @@ Depends: openvision-core-plugin
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7586fbb3713a97eaf23e7f59d77f0039
-SHA256sum: 97e592cadfaeee8a6cd432546b34be69e50bb2c3c88f1fb4390afb83f0f1ab56
-Size: 59094
+MD5Sum: 2beeb0e852fcfd84bd8a80c0fcfbc35b
+SHA256sum: 9e3fe774f9082ea4c75c988d7605db6dae6e140edcad830191f86be4eede1c5b
+Size: 59134
 Filename: enigma2-plugin-systemplugins-vision-po_git2305+ac69373-r0_gbquadplus.ipk
 Source: openvision-core-plugin.bb
 Description: systemplugins-vision (translations)
@@ -2045,9 +2045,9 @@ Provides: openvision-core-plugin
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e4b1c08029beb72611268480d415a8b8
-SHA256sum: e0e3393b1bf92fa8c64a8b4748691797f1ab4d98ba6c33cf88d14edc509a1dc3
-Size: 172718
+MD5Sum: d518affbbd82b8e942a9f555a73ffc15
+SHA256sum: 9a4d5db7c91b4d0554ced4191f5e91f1739469da104c55e654a03537c36d5cdb
+Size: 172702
 Filename: enigma2-plugin-systemplugins-vision_git2305+ac69373-r0_gbquadplus.ipk
 Source: openvision-core-plugin.bb
 Description: systemplugins-vision
@@ -2062,9 +2062,9 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg, libtirpc-dbg
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a287d4a43665323020d102ef72140dd5
-SHA256sum: ac6b1ccb83319ece9ca9b886dc3da7ac5d86e7a2af8663e95d493cbe7ea6cdca
-Size: 121404
+MD5Sum: ba4eb46c9f545b28937f7cf7e4240e78
+SHA256sum: 5b6e387e18bf8391d75e2fce2b1e89c481bb13f9961ca3378c43720031818c96
+Size: 121478
 Filename: enigma2-plugin-systemplugins-vps-dbg_git29+45c3a7e-r0_gbquadplus.ipk
 Source: enigma2-c-plugins.bb
 Description: systemplugins-vps (debug)
@@ -2078,8 +2078,8 @@ Depends: enigma2-c-plugins
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 87357d8333389b2008a619fcbe51a300
-SHA256sum: c64348ca5a6b14918113245176a3546cd8a5cca78b1e2f80cfabf28485df49d0
+MD5Sum: fa2bbb0006f5d07996063d4bac6bb2b0
+SHA256sum: 53d0f1c2840d4d0c909f04be1c9cbdc68125c30ee0f92f32f8abd8b55389a810
 Size: 11518
 Filename: enigma2-plugin-systemplugins-vps-po_git29+45c3a7e-r0_gbquadplus.ipk
 Source: enigma2-c-plugins.bb
@@ -2094,9 +2094,9 @@ Depends: enigma2, libc6 (>= 2.33), libgcc1 (>= 10.2.0), libstdc++6 (>= 10.2.0)
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: bf158abb6e71d011e8b5a8e53c9635f2
-SHA256sum: cc987c7fc602edc6e24b7789aa3f726e9130b0e626f760439de3e7fff12505be
-Size: 36654
+MD5Sum: 8efa7f99ced573105f8797a27550414d
+SHA256sum: d1ab252680fc142192d6610e6abdfceec9788efa0b746225c2a9ff4410619b5c
+Size: 36658
 Filename: enigma2-plugin-systemplugins-vps_git29+45c3a7e-r0_gbquadplus.ipk
 Source: enigma2-c-plugins.bb
 Description: systemplugins-vps
@@ -2105,15 +2105,15 @@ License: GPLv3
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-wirelesslan
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: python-wifi, wireless-tools, wpa-supplicant
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 423b87343c6649c196c793a91340955d
-SHA256sum: 059486ccac360bb634144c62ba3ab06cf5faad3f18b0c13d59834f8d82ca2142
-Size: 11208
-Filename: enigma2-plugin-systemplugins-wirelesslan_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 53cbe8329096117389af9e8fe0842580
+SHA256sum: 3cb97f5d17fbe1e093318c11511914cf2407a81142162b2c7c96e699e0f093a8
+Size: 11206
+Filename: enigma2-plugin-systemplugins-wirelesslan_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: systemplugins-wirelesslan
 OE: enigma2
@@ -2121,14 +2121,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-src
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a29204c678124e59c1af813931cd795c
-SHA256sum: 6c1a813edde65995821d30c70b1ac61da91be4b6f758e4a6721f79b1d511f239
-Size: 624846
-Filename: enigma2-src_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 41263922fee6a2f9ae885fbd6a50d4b7
+SHA256sum: 6d580c8eccb7baf2e7d3146558505a3d44899c0a0bdb70e508531534775d7ab3
+Size: 624952
+Filename: enigma2-src_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers - Source files
 OE: enigma2
@@ -2136,15 +2136,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-staticdev
-Version: develop+git20870+69440df-r0
-Depends: enigma2-dev (= develop+git20870+69440df-r0)
+Version: develop+git20873+d846f1a-r0
+Depends: enigma2-dev (= develop+git20873+d846f1a-r0)
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a6aa62f19852aa77f38507673d70df7f
-SHA256sum: bbf147bd4562fb35c17cea66125e81f320fb0b69ff05dac283751683814a1630
-Size: 7708
-Filename: enigma2-staticdev_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: 7c9c792a84375bfd41b5c165a809fe2e
+SHA256sum: 41d2aee31c2b359c8d9e651a2db4ad4387dcbda9529f8ebe8328b1599633d668
+Size: 7718
+Filename: enigma2-staticdev_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers - Development files (Static Libraries)
 OE: enigma2
@@ -2152,16 +2152,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2
-Version: develop+git20870+69440df-r0
+Version: develop+git20873+d846f1a-r0
 Depends: alsa-conf, enigma2-data-iso-639-3, enigma2-fonts, enigma2-plugin-extensions-pespeedup, enigma2-timezones, ethtool, font-valis-enigma, glibc-gconv-cp1250, glibc-gconv-iso8859-15, hotplug-e2-helper, libavahi-client3 (>= 0.8), libavahi-common3 (>= 0.8), libc6 (>= 2.33), libcrypt2 (>= 4.4.18), libcrypto1.1 (>= 1.1.1j), libdreamdvd0 (>= 1.0+git217+02a0e7c), libdvbsi++1 (>= 0.3.9), libfreetype6 (>= 2.10.4), libfribidi0 (>= 1.0.10), libgcc1 (>= 10.2.0), libgif7 (>= 5.1.4), libglib-2.0-0 (>= 2.66.7), libgomp1 (>= 10.2.0), libjpeg62 (>= 2.0.6), libpng16-16 (>= 1.6.37), libpython2.7-1.0 (>= 2.7.18), libsigc-2.0-0 (>= 2.10.6), libssl1.1 (>= 1.1.1j), libstdc++6 (>= 10.2.0), libtuxtxt0 (>= 2.0.1+git79+1c51927), libtuxtxt32bpp0 (>= 2.0.1+git79+1c51927), libudfread0 (>= 1.1.1+git104+2ba6fa9), libxml2 (>= 2.9.10), ntpdate, ofgwrite, openvision-branding, openvision-module, openvision-version-info, python-codecs, python-core, python-crypt, python-fcntl, python-image, python-imaging, python-lang, python-mmap, python-netclient, python-netifaces, python-netserver, python-numbers, python-pickle, python-process, python-pyusb, python-re, python-sendfile, python-service-identity, python-shell, python-six, python-threading, python-twisted-core, python-twisted-web, python-xml, python-zlib, python-zopeinterface, virtual/blindscan-dvbc, virtual/enigma2-mediaservice
 Recommends: libdvdcss
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 05f746ef1c477c0e61913816cd397482
-SHA256sum: 39a1a8d70d4269d921596b7212faa891fa4dd38d5c024667b5a485cedc9eb570
-Size: 2686934
-Filename: enigma2_develop+git20870+69440df-r0_gbquadplus.ipk
+MD5Sum: fcfc6a980c8e52809d92bcf818cd8ee9
+SHA256sum: 554c0d9b5ad11e9208945c340cff3835686845cebc13439376d3f6976cfe0fff
+Size: 2686704
+Filename: enigma2_develop+git20873+d846f1a-r0_gbquadplus.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers
 OE: enigma2
@@ -9331,9 +9331,9 @@ Provides: kernel-module-openvision
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 96fe82cf872c995569d8b1855ad4d4cc
-SHA256sum: a684e5ac8c70fba53b3d42df6423b2a4716a9de3e8aeb3ce6d4772685e2c120a
-Size: 6766
+MD5Sum: c16ca28fb52dd2909997784c97f4be43
+SHA256sum: 02bcaba72fff33c70532ac8f6bf047391b9ebda938f6fa6550ac4759f6c20639
+Size: 6734
 Filename: kernel-module-openvision-4.8.3_10.2-r372_gbquadplus.ipk
 Source: openvision-module.bb
 Description: openvision kernel module
@@ -12669,9 +12669,9 @@ Recommends: glibc-dbg
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 190558f51ab45bdd2861b432ff7a705f
-SHA256sum: 9348051781bd6301133a7007b5b955399bf0e027c5a42e121ab5bb392bb6bda2
-Size: 13984
+MD5Sum: 453b75ecaecaeb0f7b8e8b946b43faee
+SHA256sum: 6b1d83a7e7c0d7c1de5c2f36d6adbb883bc002339ce063b09048c0989522d2ad
+Size: 13964
 Filename: openvision-branding-dbg_10.2-r372_gbquadplus.ipk
 Source: openvision-branding.bb
 Description: openvision-branding version 10.2-r372 - Debugging files
@@ -12686,8 +12686,8 @@ Recommends: glibc-dev, python-dev
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9650542c99b9079c38e2132e84cd7dee
-SHA256sum: 3b19550380276310d60b414fa9e0814de8a7f4de90aa64b792d787032665154d
+MD5Sum: 6f8d4dd7db6406024170b7349a43c662
+SHA256sum: 520ab0d3fef5f2f725a042b96804edfba1a58002e0a0a13c8534a58205289d72
 Size: 732
 Filename: openvision-branding-dev_10.2-r372_gbquadplus.ipk
 Source: openvision-branding.bb
@@ -12702,9 +12702,9 @@ Depends: libc6 (>= 2.33)
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b9bda18471f570647ca8656d5b19a0f8
-SHA256sum: 34155cab45a30321b36589fa17f9ca8a2d07ffc50048f5c6d25fcef1271a4281
-Size: 5524
+MD5Sum: a79877e2b9ab2008faa1b6febcaaf635
+SHA256sum: 5a66a31bdd4a36163a4fb42a44b1025575ffd765d9aaeef23154b4112ed18e95
+Size: 5540
 Filename: openvision-branding_10.2-r372_gbquadplus.ipk
 Source: openvision-branding.bb
 Description: openvision-branding version 10.2-r372
@@ -12717,8 +12717,8 @@ Version: git2305+ac69373-r0
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9168e92fca0f6972c2093e5bbf6b5948
-SHA256sum: 7e6aabeb1b368a974bc6de9c83eef07b46fca181d1e2ae8d4e50349e0d639b0d
+MD5Sum: e2197a31651c25342234dabe2ecac9c1
+SHA256sum: bb18bcc8ec092a82c4923b39a210f9bf2ead42f23955ff92483cb30f44b2dfec
 Size: 684
 Filename: openvision-core-plugin-dbg_git2305+ac69373-r0_gbquadplus.ipk
 Source: openvision-core-plugin.bb
@@ -12734,8 +12734,8 @@ Recommends: bzip2-dev, enigma2-dev, libcrypto-compat-dev, nfs-utils-client-dev, 
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 195a3e08fbd49f629452d4feb62c22dc
-SHA256sum: a7b6e074ea682ef3df979394a0aa104c3b109be42ede0a590ca01be8ee6b2f45
+MD5Sum: 3f467ddf05347ac250fcbac67ccfcce9
+SHA256sum: f709c6e2228b7022955e27b29800e47abb805eebd1b6080df72116f4c57b49a4
 Size: 806
 Filename: openvision-core-plugin-dev_git2305+ac69373-r0_gbquadplus.ipk
 Source: openvision-core-plugin.bb
@@ -12749,9 +12749,9 @@ Version: git2305+ac69373-r0
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a64e4eeb1059e3275cd715f8242f5755
-SHA256sum: 6fe21691f5782bbb0b17a709f1ad292045cb8bc2d2b45f7da8c86b4b0164cc0b
-Size: 46130
+MD5Sum: 58f104c0b8be2f63db3f72a9abe2825a
+SHA256sum: b02e49b251e10f65ec28f81c9bf984d0a4dc082532aa9fd8e028d0445cf9c453
+Size: 46136
 Filename: openvision-core-plugin-src_git2305+ac69373-r0_gbquadplus.ipk
 Source: openvision-core-plugin.bb
 Description: Open Vision core plugin - Source files
@@ -12764,8 +12764,8 @@ Version: git2305+ac69373-r0
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: bb926184f021f125f5586cf904856556
-SHA256sum: 71a02b602612352ef3f30e85452d98a4023a108e6a85ffff7c33129056737faa
+MD5Sum: b59c6ff73bcc2c17328fe358fc8fa134
+SHA256sum: b6ee1fcb13017886237197c67d9f0f603592e98fc60a3743d69e7e6aeab4db03
 Size: 1090
 Filename: openvision-core-plugin_git2305+ac69373-r0_gbquadplus.ipk
 Source: openvision-core-plugin.bb
@@ -12779,8 +12779,8 @@ Version: 10.2-r372
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: af9bca7cce1f1115071fe76074ac8436
-SHA256sum: 6db49698574d042c7a65beacfc9d1bdedafa7f41e306a6c653e8cefb6014f4ec
+MD5Sum: 4b2df146044e5e68bef6997d0ec07e8e
+SHA256sum: 07f8626ea3fa87bf1f00dbc9c1a867016136fa5715474ef548e6b92e5746e3ee
 Size: 688
 Filename: openvision-module-dbg_10.2-r372_gbquadplus.ipk
 Source: openvision-module.bb
@@ -12796,8 +12796,8 @@ Recommends: kernel-4.8.3-dev, kernel-module-openvision-4.8.3-dev, multibootflag-
 Section: devel
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0dc21c63f83cc08663236fff974f6f8c
-SHA256sum: 9934a11fc1aa49c45c50d4498790766c73da1e43de385603af585b68a22eb257
+MD5Sum: 698eec7613af01d3fa0e95fdd35ca110
+SHA256sum: 22b089633e9242f6f6a31f610c14f84d4577c99bc59c481556313a980fc6490e
 Size: 762
 Filename: openvision-module-dev_10.2-r372_gbquadplus.ipk
 Source: openvision-module.bb
@@ -12812,8 +12812,8 @@ Depends: kernel-module-openvision-4.8.3, multibootflag, ovlock
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 269b52c265666ce18cd1520c66766bc6
-SHA256sum: 0f1a02584122a4092af114ce2430c86ff4ec0da4975dfecaff8d904d928cc610
+MD5Sum: 360479e07746c5b7a71339eb3fc653a4
+SHA256sum: 60f0a9325e7f233c3d2ab31de08529764254e1792aea18e1754341400f10b08a
 Size: 782
 Filename: openvision-module_10.2-r372_gbquadplus.ipk
 Source: openvision-module.bb
@@ -12827,9 +12827,9 @@ Version: 10.2-r372
 Section: base
 Architecture: gbquadplus
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 2db6106511e7238268d7838acdb8703b
-SHA256sum: 82a4f997c88563f47448d830cd5062db19db66eb6d49f571e6e2562b2670da68
-Size: 1978
+MD5Sum: d5af2cef04b43b74f740b3aa5e07b17e
+SHA256sum: bef6fb1400bc29517dbe06d7f4ee3249a5f28914b6394872127a77c4b6320053
+Size: 1982
 Filename: openvision-version-info_10.2-r372_gbquadplus.ipk
 Source: openvision-version-info.bb
 Description: openvision-version-info version 10.2-r372
